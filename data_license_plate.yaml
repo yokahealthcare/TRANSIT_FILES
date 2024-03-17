@@ -7,6 +7,6 @@ roboflow:
   url: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4
   version: 4
   workspace: roboflow-universe-projects
-test: ./kaggle/working/License-Plate-Recognition-4/test/images
-train: /kaggle/working/License-Plate-Recognition-4/train/images
-val: /kaggle/working/License-Plate-Recognition-4/valid/images
+test: /kaggle/working/Licence-Plate-Detection-using-YOLO-V8/License-Plate-Recognition-4/test/images
+train: /kaggle/working/Licence-Plate-Detection-using-YOLO-V8/License-Plate-Recognition-4/train/images
+val: /kaggle/working/Licence-Plate-Detection-using-YOLO-V8/License-Plate-Recognition-4/valid/images
